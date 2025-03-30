@@ -1,0 +1,5 @@
+ 1 - comando para instalar o frotend :
+ docker exec -it laravel_app npm install
+
+ 1 - comando para rodar o frotend :
+ docker exec -it laravel_app npm run dev
